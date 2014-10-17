@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qur:home|Door43 (qur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qur|d43-qur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qur/archive/master.zip|d43-qur.zip]]
+
+**Recent Changes**
+{{changes>ns = qur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qur|Ethnologue data]]
+
